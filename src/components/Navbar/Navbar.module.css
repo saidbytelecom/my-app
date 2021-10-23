@@ -1,0 +1,10 @@
+.navbar {
+    grid-area:  n;
+    margin: 5px;
+    background-color: rosybrown;
+}
+
+.navbar a {
+    color: black;
+    text-decoration: none;
+}

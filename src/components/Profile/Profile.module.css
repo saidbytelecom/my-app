@@ -1,0 +1,5 @@
+.profile {
+    grid-area: p;
+    margin: 5px;
+    background-color:salmon;
+}
